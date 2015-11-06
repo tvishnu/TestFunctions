@@ -3,6 +3,7 @@ package com.iamcool.stuff;
 /**
  * Hello world!
  *
+ *This is main class
  */
 public class App 
 {
