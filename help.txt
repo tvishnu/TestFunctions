@@ -1,0 +1,15 @@
+
+This will help you to look commands.
+
+This are commands
+
+git clone
+
+git pull 
+
+pit push
+
+git ammend --no-force 
+
+git commit -m ""
+
