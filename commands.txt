@@ -1,3 +1,6 @@
 cmd commands to do rebase of commits 
+<<<<<<< HEAD
 
 ammend
+=======
+>>>>>>> 28f9fff0df5a37cfc579abd2ec626fa9d3fc2a73
