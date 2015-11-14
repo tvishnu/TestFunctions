@@ -12,4 +12,5 @@ pit push
 git ammend --no-force 
 
 git commit -m ""
+helps us
 
